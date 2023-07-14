@@ -1,5 +1,7 @@
-## DTFLOW
+# MLBKFD-master
 
+
+## Introduction
 MLBKFD: probability modeling methods to infer pseudo trajectories from single-cell data. 
 
 The method only can be used for technology research, not for commercial purposes.
